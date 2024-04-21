@@ -58,4 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Demo
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/siddikisahil47/Eco-verse/blob/main/Frontend/public/mobileview.gif)
+
+![](https://github.com/siddikisahil47/Eco-verse/blob/main/Frontend/public/pcview.gif)

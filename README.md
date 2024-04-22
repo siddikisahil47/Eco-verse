@@ -20,7 +20,7 @@ Eco-verse is a cutting-edge web application powered by Gen AI technology, aimed 
 ### Setup Instructions
 
 1. **Clone the Repository:**
-   ```
+   ``` bash
    git clone https://github.com/siddikisahil47/Eco-verse.git
    ```
 
@@ -34,13 +34,20 @@ Eco-verse is a cutting-edge web application powered by Gen AI technology, aimed 
 3. **Backend Setup:**
    ```
    cd Backend
+
+   # Create the virtual environment 
    python -m venv venv
+   
    # Activate the virtual environment (for Windows)
    ./venv/Scripts/activate
+   
    # Activate the virtual environment (for MacOS/Linux)
    source venv/bin/activate
+   
    # Install required libraries from requirements.txt
    pip install -r requirements.txt
+
+   #start the server
    flask run
    ```
 
